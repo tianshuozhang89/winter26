@@ -1,0 +1,4 @@
+# plaintext never lives here
+*.md.bak
+plain/
+notes/
