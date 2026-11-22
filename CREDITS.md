@@ -6,3 +6,4 @@
 - chongqing · 20250521 Hongyadong (223216).jpg · Yumeto · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:20250521_Hongyadong_(223216).jpg
 - chengdu · Chengdu Greenway.jpg · MspreilsCN · CC0 · https://commons.wikimedia.org/wiki/File:Chengdu_Greenway.jpg
 - chongli · 万龙雪场 - panoramio.jpg · 黑夜有灯 · CC BY 3.0 · https://commons.wikimedia.org/wiki/File:%E4%B8%87%E9%BE%99%E9%9B%AA%E5%9C%BA_-_panoramio.jpg
+- route-bg · Blue Marble Next Generation w/ Topography and Bathymetry (December) · NASA Visible Earth – Blue Marble (R. Stöckli, NASA Earth Observatory) · Public domain · https://visibleearth.nasa.gov/images/73909/december-blue-marble-next-generation-w-topography-and-bathymetry
